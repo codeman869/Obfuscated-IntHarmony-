@@ -28,7 +28,7 @@ The logic used to accomplish this was *! (p ^ q)*
 
 **Starting Point**
 
-Below is the original code starting point:
+Below is the original code starting point, and used a little more complex logic:
 
 ```Ruby
 def intHarmony(a,b)
